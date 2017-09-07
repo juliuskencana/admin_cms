@@ -1,0 +1,79 @@
+/* here you can put your own css to customize and override the theme */
+.heading-menu{
+	color: #4b646f;
+    background: #1a2226;
+	font-size: 10px !important;
+}
+
+.active-custom{
+    border-left: 3px solid #605ca8 !important;
+    background: #1e282c !important;
+    color: #FFF !important;
+}
+
+.page-container{
+	background: #222d32;
+}
+
+.page-sidebar{
+	margin-bottom: 20px !important;
+}
+
+.page-sidebar-menu{
+	background: #222d32;
+}
+
+.bg-olive{
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.image{
+	color: #fff;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.image i{
+    font-size: 38px;
+    margin: 2px 1px 7px 5px;
+}
+
+.info{
+	color: #fff;
+    padding: 5px 5px 5px 15px;
+    line-height: 1;
+    position: absolute;
+    left: 55px;
+    margin-top: 17px;
+}
+
+.info p{
+	font-weight: 600;
+    margin-bottom: 9px;
+    margin: 0 0 10px;
+}
+
+.info a{
+	color: #FFF;
+    text-decoration: none;
+    padding-right: 5px;
+    margin-top: 3px;
+    font-size: 11px;
+}
+
+.page-title{
+	font-weight: 500;
+}
+
+.page-sidebar-closed footer, .page-sidebar-closed .user-panel, .page-sidebar-closed .page-sidebar-menu-closed .hidding-menu-closed {
+    display: none;
+}
+
+
+
+.logo-default{
+    margin: 10px 0px 10px 30px !important;
+    width: 100px !important;
+}
